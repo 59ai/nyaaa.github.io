@@ -1,4 +1,1 @@
-# nyaaa.github.io
-www.nyaaa.ga
-hhhh55
-
+dddi.vercel.app
