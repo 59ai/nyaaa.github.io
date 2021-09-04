@@ -1,1 +1,1 @@
-dddi.vercel.app    
+dddi.vercel.app    .
